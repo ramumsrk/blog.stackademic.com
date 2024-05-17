@@ -1,0 +1,1 @@
+https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers
